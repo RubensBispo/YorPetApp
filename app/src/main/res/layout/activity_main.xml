@@ -43,7 +43,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/edtPassword"
         android:layout_margin="20dp"
-        android:hint="Entrar" />
+        android:hint="Entrar"
+        />
 
     <Button
         android:id="@+id/btnSair"
